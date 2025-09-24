@@ -39,5 +39,8 @@ Experimentation: Use the TensorFlow Playground to experiment with different netw
 ### Play around with neural networks:
 Play around with neural networks:
 Explore how neural networks work interactively with the TensorFlow Playground. This tool lets you adjust parameters like the number of hidden layers (e.g., 6 and 5 neurons), activation functions (e.g., tanh), and learning rate (0.03) to see how they affect the network’s ability to classify data, such as points in a circular pattern.
+You can also play around with Teachable Machine where you can upload your pictures and classifaction and train your model to learn what machine learning is all about. It will also let you preview it so you can see your data affects the model.
+
+https://teachablemachine.withgoogle.com/train/image
 
 https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=6,5&seed=0.53938&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=true&xSquared=true&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&discretize_hide=true&batchSize_hide=true&stepButton_hide=false&learningRate_hide=true&percTrainData_hide=true&regularizationRate_hide=true&regularization_hide=true&activation_hide=true&dataset_hide=false&problem_hide=true
